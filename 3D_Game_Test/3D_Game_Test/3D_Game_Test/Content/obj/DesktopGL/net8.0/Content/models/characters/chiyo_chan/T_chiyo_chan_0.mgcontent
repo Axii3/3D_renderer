@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/models/characters/chiyo_chan/T_chiyo_chan.png</SourceFile>
+  <SourceTime>2024-03-09T00:45:16+01:00</SourceTime>
+  <DestFile>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/Content/models/characters/chiyo_chan/T_chiyo_chan_0.xnb</DestFile>
+  <DestTime>2025-06-17T03:35:27.429341+02:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2025-06-02T12:31:02+02:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2025-06-02T12:31:02+02:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

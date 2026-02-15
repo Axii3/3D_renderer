@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/models/characters/chiyo_chan/chiyo.fbx","D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/models/characters/chiyo_chan/chiyo.xnb","ModelProcessor","ModelContent",36252,17903,0,8503941
+"D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/models/characters/chiyo_chan/T_chiyo_chan.png","D:\_game_dev\CSharp\3D_Game_Test\3D_Game_Test\3D_Game_Test\Content\bin\DesktopGL\models/characters/chiyo_chan/T_chiyo_chan.png","CopyItem","File",8696,8696,0,0017895
+"D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/MonoCube.fbx","D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/MonoCube.xnb","ModelProcessor","ModelContent",18508,1520,1,4416256
+"D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/MonoCubeTexture.png","D:\_game_dev\CSharp\3D_Game_Test\3D_Game_Test\3D_Game_Test\Content\bin\DesktopGL\MonoCubeTexture.png","CopyItem","File",286178,286178,0,0010486
