@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/MonoCube.fbx</SourceFile>
+  <SourceFile>D:/_game_dev/CSharp/3D_renderer/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/MonoCube.fbx</SourceFile>
   <SourceTime>2025-06-17T03:13:36.3575609+02:00</SourceTime>
-  <DestFile>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/Content/MonoCube.xnb</DestFile>
-  <DestTime>2025-06-17T03:15:07.0195066+02:00</DestTime>
+  <DestFile>D:/_game_dev/CSharp/3D_renderer/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/Content/MonoCube.xnb</DestFile>
+  <DestTime>2026-02-15T16:48:41.0338714+01:00</DestTime>
   <Importer>FbxImporter</Importer>
   <ImporterTime>2025-06-02T12:31:02+02:00</ImporterTime>
   <Processor>ModelProcessor</Processor>
@@ -66,7 +66,7 @@
   </Parameters>
   <Dependencies />
   <BuildAsset>
-    <string>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/Content/MonoCubeTexture_0.xnb</string>
+    <string>D:/_game_dev/CSharp/3D_renderer/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/Content/MonoCubeTexture_0.xnb</string>
   </BuildAsset>
   <BuildOutput />
 </PipelineBuildEvent>

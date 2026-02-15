@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/models/characters/chiyo_chan/chiyo.fbx</File>
-    <File>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/MonoCube.fbx</File>
+    <File>D:/_game_dev/CSharp/3D_renderer/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/models/characters/chiyo_chan/chiyo.fbx</File>
+    <File>D:/_game_dev/CSharp/3D_renderer/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/MonoCube.fbx</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/models/characters/chiyo_chan/T_chiyo_chan.png</SourceFile>
+  <SourceFile>D:/_game_dev/CSharp/3D_renderer/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/models/characters/chiyo_chan/T_chiyo_chan.png</SourceFile>
   <SourceTime>2024-03-09T00:45:16+01:00</SourceTime>
-  <DestFile>D:/_game_dev/CSharp/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/Content/models/characters/chiyo_chan/T_chiyo_chan_0.xnb</DestFile>
-  <DestTime>2025-06-17T03:35:27.429341+02:00</DestTime>
+  <DestFile>D:/_game_dev/CSharp/3D_renderer/3D_Game_Test/3D_Game_Test/3D_Game_Test/Content/bin/DesktopGL/Content/models/characters/chiyo_chan/T_chiyo_chan_0.xnb</DestFile>
+  <DestTime>2026-02-15T16:48:39.6879896+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-06-02T12:31:02+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
