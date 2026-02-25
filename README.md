@@ -1,6 +1,6 @@
 #3D Renderer
 
-This is A Project where I made A 3D Renderer in C# using the Monogame framework.
+This is a project where I made a 3D renderer in C# using the Monogame framework.
 
 I created this in June 2025
 
